@@ -1,0 +1,68 @@
+.rt{
+    display: inline-flex;
+}
+li{
+    list-style: none;
+    margin: auto;
+    padding: 10px;
+    color: white;
+}
+.logo , .dfg{
+    background-color: purple;
+}
+.as{
+    margin-left: 50px;
+}
+.qw{
+    margin-left: 250px;
+}
+.fg{
+    margin-left: 20px;
+}
+
+ .container{
+    position: relative;
+    color: white;
+    padding: 10px;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 18px;
+    left: 16px;
+} 
+.column{
+    width: 33.33%;
+    padding: 10px;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.container1{
+    width: 100%;
+    display: flex;
+}
+.row1{
+    width: 20%;
+    padding: 10px;
+}
+.box{
+    width: 100%;
+    display: flex;
+}
+.oh{
+    display: inline-block;
+}
+.dfg{
+    display: inline-block;
+}
+.yu{
+    display: inline-block;
+    color: white;
+    background-color: purple;
+    width: 100%;
+}
+p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
